@@ -1,0 +1,403 @@
+{
+  "destination": "Goa",
+  "summary": "Embark on a luxurious journey through Goa's rich heritage, vibrant festivals, and exquisite cuisine. Experience the grandeur of historical sites like Bom Jesus Basilica and Fort Aguada, immerse in local culture at Xenni Uzzo and Shisha Ranni, and indulge in the arts at Serendipity Art Festival and IFFI.",
+  "weather": {
+    "city": "Goa",
+    "country": "IN",
+    "forecast": [
+      {
+        "date": "2026-05-11",
+        "temp_min": 28.9,
+        "temp_max": 30.2,
+        "humidity": 85,
+        "description": "overcast clouds",
+        "icon": "04n",
+        "wind_speed": 0.6
+      },
+      {
+        "date": "2026-05-12",
+        "temp_min": 25.9,
+        "temp_max": 37.0,
+        "humidity": 67,
+        "description": "overcast clouds",
+        "icon": "04d",
+        "wind_speed": 2.5
+      },
+      {
+        "date": "2026-05-13",
+        "temp_min": 26.3,
+        "temp_max": 35.2,
+        "humidity": 70,
+        "description": "broken clouds",
+        "icon": "04d",
+        "wind_speed": 2.8
+      },
+      {
+        "date": "2026-05-14",
+        "temp_min": 25.7,
+        "temp_max": 36.2,
+        "humidity": 66,
+        "description": "broken clouds",
+        "icon": "04d",
+        "wind_speed": 3.9
+      },
+      {
+        "date": "2026-05-15",
+        "temp_min": 26.6,
+        "temp_max": 35.3,
+        "humidity": 67,
+        "description": "overcast clouds",
+        "icon": "04d",
+        "wind_speed": 4.0
+      },
+      {
+        "date": "2026-05-16",
+        "temp_min": 25.9,
+        "temp_max": 35.7,
+        "humidity": 60,
+        "description": "overcast clouds",
+        "icon": "04d",
+        "wind_speed": 4.6
+      }
+    ],
+    "best_time_to_visit": null,
+    "warnings": []
+  },
+  "places": {
+    "places": [
+      {
+        "name": "Bom Jesus Basilica",
+        "description": "A 16th-century Roman Catholic basilica dedicated to Infant Jesus and a World Heritage Site.",
+        "rating": null,
+        "category": "temple",
+        "link": null
+      },
+      {
+        "name": "Fort Aguada",
+        "description": "A 17th-century Portuguese fortress located in North Goa.",
+        "rating": null,
+        "category": "fort",
+        "link": null
+      },
+      {
+        "name": "Xenni Uzzo",
+        "description": "Not a tourist attraction, but possibly a local event or place.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      },
+      {
+        "name": "IFFI",
+        "description": "International Film Festival of India, an annual film festival held in Goa.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      },
+      {
+        "name": "Feast Of St Francis Xavier",
+        "description": "A religious event held in honor of St. Francis Xavier.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      },
+      {
+        "name": "Serendipity Art Festival",
+        "description": "An annual art and music festival held in Goa.",
+        "rating": null,
+        "category": "art_festival",
+        "link": null
+      },
+      {
+        "name": "Shisha Ranni",
+        "description": "Not a tourist attraction, but possibly a local event or place.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      },
+      {
+        "name": "Homkund Utsav",
+        "description": "Not a tourist attraction, but possibly a local event or festival.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      },
+      {
+        "name": "Chorotsav",
+        "description": "Not a tourist attraction, but possibly a local event or festival.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      },
+      {
+        "name": "Ghode Modni",
+        "description": "Not a tourist attraction, but possibly a local event or place.",
+        "rating": null,
+        "category": "event",
+        "link": null
+      }
+    ]
+  },
+  "hotels": {
+    "hotels": [
+      {
+        "name": "Storii by ITC Hotels Shanti Morada Goa",
+        "price_per_night": null,
+        "rating": null,
+        "location": "Goa",
+        "amenities": [],
+        "link": null
+      },
+      {
+        "name": "Grand Hyatt Goa",
+        "price_per_night": null,
+        "rating": null,
+        "location": "Goa",
+        "amenities": [],
+        "link": null
+      },
+      {
+        "name": "The Taj Exotica",
+        "price_per_night": null,
+        "rating": null,
+        "location": "Goa",
+        "amenities": [],
+        "link": null
+      }
+    ]
+  },
+  "restaurants": {
+    "restaurants": []
+  },
+  "images": {
+    "images": {
+      "Goa": [
+        {
+          "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1200&h=700&s=1",
+          "alt_text": "THE 15 BEST Things to Do in Goa (2026) - Must-See Attractions",
+          "source": "https://www.tripadvisor.com/Attractions-g297604-Activities-Goa.html",
+          "width": 1200,
+          "height": 700
+        },
+        {
+          "url": "https://www.miagoaairport.com/images/blog_new/tp_12_pl.jpg",
+          "alt_text": "12 Best Places to Visit in North Goa | Top Tourist Attractions",
+          "source": "https://www.miagoaairport.com/blog/top-places-to-visit-in-north-goa",
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "url": "https://images.travelandleisureasia.com/wp-content/uploads/sites/5/2024/04/15151604/palm-beach-1-1600x900.jpeg",
+          "alt_text": "Most Beautiful Places To Visit In Goa: Stunning Tourist Attractions 2024",
+          "source": "https://www.travelandleisureasia.com/hk/destinations/india/the-most-beautiful-places-to-visit-in-goa/",
+          "width": 1600,
+          "height": 900
+        }
+      ],
+      "Bom Jesus Basilica": [
+        {
+          "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1200&h=700&s=1",
+          "alt_text": "THE 15 BEST Things to Do in Goa (2026) - Must-See Attractions",
+          "source": "https://www.tripadvisor.com/Attractions-g297604-Activities-Goa.html",
+          "width": 1200,
+          "height": 700
+        },
+        {
+          "url": "https://www.miagoaairport.com/images/blog_new/tp_12_pl.jpg",
+          "alt_text": "12 Best Places to Visit in North Goa | Top Tourist Attractions",
+          "source": "https://www.miagoaairport.com/blog/top-places-to-visit-in-north-goa",
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "Fort Aguada": [
+        {
+          "url": "http://amzcabs.in/wp-content/uploads/2025/03/Sinquerim-Fort-819x1024.webp",
+          "alt_text": "Top 24 Goa Tourist Places to Visit in 2025 – Beaches, Forts & More",
+          "source": "https://amzcabs.in/goa-tourist-places/",
+          "width": 819,
+          "height": 1024
+        },
+        {
+          "url": "http://amzcabs.in/wp-content/uploads/2025/03/Baga-Beach-993x1024.webp",
+          "alt_text": "Top 24 Goa Tourist Places to Visit in 2025 – Beaches, Forts & More",
+          "source": "https://amzcabs.in/goa-tourist-places/",
+          "width": 993,
+          "height": 1024
+        }
+      ],
+      "Xenni Uzzo": [
+        {
+          "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1200&h=700&s=1",
+          "alt_text": "THE 15 BEST Things to Do in Goa (2026) - Must-See Attractions",
+          "source": "https://www.tripadvisor.com/Attractions-g297604-Activities-Goa.html",
+          "width": 1200,
+          "height": 700
+        },
+        {
+          "url": "https://www.miagoaairport.com/images/blog_new/tp_12_pl.jpg",
+          "alt_text": "12 Best Places to Visit in North Goa | Top Tourist Attractions",
+          "source": "https://www.miagoaairport.com/blog/top-places-to-visit-in-north-goa",
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "IFFI": [
+        {
+          "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1200&h=700&s=1",
+          "alt_text": "THE 15 BEST Things to Do in Goa (2026) - Must-See Attractions",
+          "source": "https://www.tripadvisor.com/Attractions-g297604-Activities-Goa.html",
+          "width": 1200,
+          "height": 700
+        },
+        {
+          "url": "https://www.miagoaairport.com/images/blog_new/tp_12_pl.jpg",
+          "alt_text": "12 Best Places to Visit in North Goa | Top Tourist Attractions",
+          "source": "https://www.miagoaairport.com/blog/top-places-to-visit-in-north-goa",
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "Feast Of St Francis Xavier": [
+        {
+          "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=1200&h=700&s=1",
+          "alt_text": "THE 15 BEST Things to Do in Goa (2026) - Must-See Attractions",
+          "source": "https://www.tripadvisor.com/Attractions-g297604-Activities-Goa.html",
+          "width": 1200,
+          "height": 700
+        },
+        {
+          "url": "https://www.miagoaairport.com/images/blog_new/tp_12_pl.jpg",
+          "alt_text": "12 Best Places to Visit in North Goa | Top Tourist Attractions",
+          "source": "https://www.miagoaairport.com/blog/top-places-to-visit-in-north-goa",
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "Storii by ITC Hotels Shanti Morada Goa": [
+        {
+          "url": "https://chancesgoa.com/wp-content/uploads/2024/03/best-5-star-restaurants-in-Goa-Chances-Goa.jpg",
+          "alt_text": "Luxury Dining in Goa : Experience at 5 Star Boutique Hotel in Goa",
+          "source": "https://chancesgoa.com/luxury-dining-in-goa-the-ultimate-5-star-experience/",
+          "width": 1060,
+          "height": 706
+        },
+        {
+          "url": "https://assets.cntraveller.in/photos/65cf12338e462170c9edba5d/16:9/w_1280,c_limit/Bomras%20(1).JPG",
+          "alt_text": "The best restaurants in North Goa | Condé Nast Traveller India",
+          "source": "https://www.cntraveller.in/story/the-best-restaurants-in-north-goa/",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://www.resortrio.com/wp-content/uploads/2023/11/Sweet-Caju.jpg",
+          "alt_text": "Premier vegetarian 5-star restaurant in Goa – Aur Jalsa at Resort Rio",
+          "source": "https://www.resortrio.com/culinary-extravaganza-a-gourmet-journey-at-goas-premier-vegetarian-5-star-restaurant/",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "Grand Hyatt Goa": [
+        {
+          "url": "https://chancesgoa.com/wp-content/uploads/2024/03/best-5-star-restaurants-in-Goa-Chances-Goa.jpg",
+          "alt_text": "Luxury Dining in Goa : Experience at 5 Star Boutique Hotel in Goa",
+          "source": "https://chancesgoa.com/luxury-dining-in-goa-the-ultimate-5-star-experience/",
+          "width": 1060,
+          "height": 706
+        },
+        {
+          "url": "https://assets.cntraveller.in/photos/65cf12338e462170c9edba5d/16:9/w_1280,c_limit/Bomras%20(1).JPG",
+          "alt_text": "The best restaurants in North Goa | Condé Nast Traveller India",
+          "source": "https://www.cntraveller.in/story/the-best-restaurants-in-north-goa/",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://www.resortrio.com/wp-content/uploads/2023/11/Sweet-Caju.jpg",
+          "alt_text": "Premier vegetarian 5-star restaurant in Goa – Aur Jalsa at Resort Rio",
+          "source": "https://www.resortrio.com/culinary-extravaganza-a-gourmet-journey-at-goas-premier-vegetarian-5-star-restaurant/",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "The Taj Exotica": [
+        {
+          "url": "https://assets.cntraveller.in/photos/65cf12338e462170c9edba5d/16:9/w_1280,c_limit/Bomras%20(1).JPG",
+          "alt_text": "The best restaurants in North Goa | Condé Nast Traveller India",
+          "source": "https://www.cntraveller.in/story/the-best-restaurants-in-north-goa/",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "url": "https://assets.cntraveller.in/photos/67c1b77b9ba79915300fa7da/master/w_1600%2Cc_limit/Anar%2520special%2520kebabs%2520at%2520Anar%2C%2520Goa.jpg",
+          "alt_text": "The best restaurants in North Goa | Condé Nast Traveller India",
+          "source": "https://www.cntraveller.in/story/the-best-restaurants-in-north-goa/",
+          "width": 1600,
+          "height": 2400
+        },
+        {
+          "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3595808389495491025",
+          "alt_text": "Karen Anand | I'm in Goa, wondering why the restaurants in luxury hotels  are nearly empty while standalone spots are packed. Sure, many  independent... | Instagram",
+          "source": "https://www.instagram.com/p/DHm4LA-PS0y/",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    }
+  },
+  "itinerary": [
+    {
+      "day": 1,
+      "title": "Heritage Exploration",
+      "activities": [
+        "9:00 AM - Visit Bom Jesus Basilica",
+        "11:30 AM - Explore Fort Aguada",
+        "2:00 PM - Lunch at a local restaurant (to be found)"
+      ]
+    },
+    {
+      "day": 2,
+      "title": "Cultural Immersion & Art Festival",
+      "activities": [
+        "10:00 AM - Attend Serendipity Art Festival",
+        "1:00 PM - Lunch at a local restaurant (to be found)",
+        "3:00 PM - Visit Xenni Uzzo"
+      ]
+    },
+    {
+      "day": 3,
+      "title": "Festival of St. Francis Xavier",
+      "activities": [
+        "9:00 AM - Attend Feast Of St Francis Xavier",
+        "12:00 PM - Lunch at a local restaurant (to be found)",
+        "3:00 PM - Visit Shisha Ranni"
+      ]
+    },
+    {
+      "day": 4,
+      "title": "Rest & Relaxation",
+      "activities": [
+        "10:00 AM - Leisure day at the hotel's pool or beach",
+        "1:00 PM - Lunch at a local restaurant (to be found)",
+        "6:00 PM - Evening cruise on Mandovi River"
+      ]
+    },
+    {
+      "day": 5,
+      "title": "IFFI & Local Events",
+      "activities": [
+        "10:00 AM - Attend IFFI screenings",
+        "1:00 PM - Lunch at a local restaurant (to be found)",
+        "3:00 PM - Explore Homkund Utsav"
+      ]
+    },
+    {
+      "day": 6,
+      "title": "Beach Day & Local Cuisine",
+      "activities": [
+        "10:00 AM - Relax at Calangute or Baga Beach",
+        "1:00 PM - Lunch at a local restaurant (to be found)",
+        "3:00 PM - Visit Anjuna Flea Market"
+      ]
+    }
+  ]
+}
